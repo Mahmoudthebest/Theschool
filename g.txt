@@ -1,2 +1,2 @@
 body {
-font-size: 50 px}
+font-size: 1000 px}
